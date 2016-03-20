@@ -13,7 +13,8 @@ Coming from there we developed the tasks and were asked to improve the algorithm
 Always working on the same algorthm the last task of the project was to transfer the generative process to the computer. 
 
 ### The first algorithm
-![](images/
+![](images/Algo_1.1.JPG)
+
 
 -------------------------------
 
