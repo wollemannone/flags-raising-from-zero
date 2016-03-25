@@ -28,11 +28,11 @@ The interesting point of the results was, that all the people found very diffren
 The next step was to develop the algerithm in a way, that all the solutions look the same. Or at least, that the instructions were clear an unambiguous. 
 
 ![](images/Algo_1.1.JPG)
-![](images/Algo_1.2.JPG)
-![](images/Algo_1.3.JPG)
-![](images/Algo_1.4.JPG)
+
+
+
 ![](images/Algo_1.5.JPG)
-![](images/Algo_1.6.JPG)
+
 
 
 
