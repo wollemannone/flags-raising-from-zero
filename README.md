@@ -14,7 +14,7 @@ Always developing the same algorithm, the last task of the project was to transf
 -----------------------------------
 ### The first algorithm
 
-My first algorithm was very simple. The executer had to draw ten circles and connect the middel points with only one line. That line must not contain any angle.
+My first algorithm was very simple. The executing person had to draw a couple of circles and connect the middel points with only one line. That line must not contain any angle.
 
 
 ![](images/Algo_2.2.jpg)
@@ -28,9 +28,10 @@ The interesting point of the results was, that all the people found very diffren
 The next step was to develop the algerithm in a way, that all the solutions look the same. Or at least, that the instructions were clear an unambiguous. 
 
 ![](images/Algo_1.1.JPG)
-
-
-
+![](images/Algo_1.2.JPG)
+![](images/Algo_1.3.JPG)
+![](images/Algo_1.4.JPG)
+![](images/Algo_1.6.JPG)
 ![](images/Algo_1.5.JPG)
 
 
