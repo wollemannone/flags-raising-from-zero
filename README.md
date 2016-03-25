@@ -11,13 +11,29 @@ The four week project was all about working on algorithms. It was separated in t
 We started off to develop an analog algorithm an try running it on at least ten person. The point was to find out how to deliver explecit tasks  to get a certain result. We ran our program for humans and tryed to improve it to make a step in direction of generative creation.
 Coming from there we developed the tasks and were asked to improve the algorithm using other materialsor formats in genaral.  
 Always working on the same algorthm the last task of the project was to transfer the generative process to the computer. 
-
+-----------------------------------
 ### The first algorithm
+
+My first algorithm was very simple. The executer had to draw ten circles and connect the middel points with only one line. That line must not contain any angle.
+
+
 ![](images/Algo_2.1.jpg)
-![](images/Algo_2.1.jpg)
-![](images/Algo_2.1.jpg)
+![](images/Algo_2.2.jpg)
+![](images/Algo_2.3.jpg)
+
+The interesting point of the results was, that all the people found very diffrent solutions for the tasks. And at this point you could tell already that there is a huge potential in creating through algerithms. The fact that the humans are executing the "program" in combination with their own intelligence was very interesting.
+
+---------------------------------
+The next step was to develop the algerithm in a way, that all the solutions look the same. Or at least, that the instructions were clear an unambiguous. 
+
 ![](images/Algo_1.1.JPG)
-![](images/Algo_1.1.JPG)
+![](images/Algo_1.2.JPG)
+![](images/Algo_1.3.JPG)
+![](images/Algo_1.4.JPG)
+![](images/Algo_1.5.JPG)
+![](images/Algo_1.6.JPG)
+
+
 
 
 -------------------------------
