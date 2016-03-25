@@ -11,6 +11,7 @@ The four week project was all about working on algorithms. It was separated in t
 We started off to develop an analog algorithm an try running it on at least ten person. The point was to find out how to deliver explecit tasks  to get a certain result. We ran our program for humans and tryed to improve it to make a step in direction of generative creation.
 Coming from there we developed the tasks and were asked to improve the algorithm using other materialsor formats in genaral.  
 Always developing the same algorithm, the last task of the project was to transfer the generative process to the computer. 
+
 -----------------------------------
 ### The first algorithm
 
@@ -43,6 +44,8 @@ The next step was to develop the algorithm in a way, that all the solutions look
 -------------------------------
 
 ### The traslation in material
+
+To bring a new layer in the project we were asked to not only use pencil and paper to issue instruction but also involve other material, format, technique etc. The aim was to 
 
 
 -------------------------------
