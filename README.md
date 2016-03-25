@@ -25,14 +25,8 @@ My first algorithm was very simple. The executing person had to draw a couple of
 The interesting point of the results was, that all the people found very diffrent solutions for the tasks. And at this point you could tell already that there is a huge potential in creating through algerithms. The fact that the humans are executing the "program" in combination with their own intelligence was very interesting.
 
 ---------------------------------
-The next step was to develop the algerithm in a way, that all the solutions look the same. Or at least, that the instructions were clear an unambiguous. 
+The next step was to develop the algorithm in a way, that all the solutions look the same. Or at least, that the instructions were clear an unambiguous. 
 
-![](images/Algo_1.1.JPG)
-![](images/Algo_1.2.JPG)
-![](images/Algo_1.3.JPG)
-![](images/Algo_1.4.JPG)
-![](images/Algo_1.6.JPG)
-![](images/Algo_1.5.JPG)
 
 
 
