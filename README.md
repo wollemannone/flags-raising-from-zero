@@ -36,7 +36,7 @@ The next step was to develop the algorithm in a way, that all the solutions look
 
 ### The traslation in material
 
-To bring a new layer in the project we were asked to not only use pencil and paper to issue instruction but also involve other material, format, technique etc. The aim was to 
+To bring a new layer in the project we were asked to not only use pencil and paper to issue instruction but also involve other material, format, technique etc.
 
 ![](images/Algo_2.all.jpg)
 
@@ -45,4 +45,8 @@ To bring a new layer in the project we were asked to not only use pencil and pap
 
 ### The translation in digital
 
+For the translation in digital we worked with p5js. After a little crash course we started off to explore the possibilities in creating with code. For me it was all new and it was a challange already to install everything and get it running. But after weekend learning and following Tutorials of Peter Shifman I made littel steps. In my program are quadrangles created and stacked on top of each other. 
+
+![](images/quad_1.jpg)
+![](images/quad_2.jpg)
 -------------------------------
