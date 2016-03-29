@@ -50,3 +50,5 @@ For the translation in digital we worked with p5js. After a little crash course 
 ![](images/quad_1.jpg)
 ![](images/quad_2.jpg)
 -------------------------------
+![](images/flag_1.jpg)
+![](images/flag_2.jpg)
