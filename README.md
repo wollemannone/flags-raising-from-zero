@@ -78,3 +78,6 @@ Organisations like world championships can use it to have their own flag design.
 
 ![](images/Poster_MokUp.tif)
 
+
+[ find here the exampe how the flag is generating](http://wollemannone.github.io/flashyQuadrangle/)
+
