@@ -75,8 +75,8 @@ Organisations like world championships can use it to have their own flag design.
 
 
 ![](images/flag_2.jpg)
-
 ![](images/PlakatMokUp.pdf)
+
 
 
 click [here](http://wollemannone.github.io/flashyQuadrangle/) to see how the flag of spain is generated.
