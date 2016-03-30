@@ -22,7 +22,7 @@ Always developing the same algorithm, the last task of the project was to transf
 My first algorithm was very simple. The executing person had to draw a couple of circles and connect the middel points with only one line. That line must not contain any angle.
 
 
-![](images/Algo_3.all.jpg)
+![#first tasked executed by the class mates](images/Algo_3.all.jpg)
 
 
 The interesting point of the results was, that all the people found very diffrent solutions for the tasks. And at this point you could tell already that there is a huge potential in creating through algerithms. The fact that the humans are executing the "program" in combination with their own intelligence was very interesting.
