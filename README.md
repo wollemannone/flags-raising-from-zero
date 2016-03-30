@@ -22,7 +22,7 @@ Always developing the same algorithm, the last task of the project was to transf
 My first algorithm was very simple. The executing person had to draw a couple of circles and connect the middel points with only one line. That line must not contain any angle.
 
 
-![#first tasked executed by the class mates](images/Algo_3.all.jpg)
+![](images/Algo_3.all.jpg)
 
 
 The interesting point of the results was, that all the people found very diffrent solutions for the tasks. And at this point you could tell already that there is a huge potential in creating through algerithms. The fact that the humans are executing the "program" in combination with their own intelligence was very interesting.
@@ -44,7 +44,8 @@ The next step was to develop the algorithm in a way, that all the solutions look
 
 
 --------------------------------
-To bring a new layer in the project we were asked to not only use pencil and paper to issue instruction but also involve other material, format, technique etc.
+To bring a new layer in the project we were asked to not only use pencil and paper to issue instruction but also involve other material, format, technique etc.  
+My aim was to find a way, to compare the curvature of the one connecting line. Thats why I made them remove the area between their curve and the straight connection between the points. Now you can compare the dark areas and propably transfer it in a dataset or just hang it in line.
 
 ![](images/Algo_2.all.jpg)
 
@@ -75,9 +76,29 @@ Organisations like world championships can use it to have their own flag design.
 
 
 ![](images/flag_2.jpg)
+
+
+
+
+click [here](http://wollemannone.github.io/flashyQuadrangle/) to see how the flag of spain is generated.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Thats how a Poster could look like
+
 ![](images/PlakatMokUp.jpg)
-
-
-
-click [here](http://wollemannone.github.io/flashyQuadrangle/) to see how the flag of spain is generated.
 
