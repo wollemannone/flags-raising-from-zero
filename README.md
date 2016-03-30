@@ -75,7 +75,7 @@ Organisations like world championships can use it to have their own flag design.
 
 
 ![](images/flag_2.jpg)
-![](images/PlakatMokUp.pdf)
+![](images/PlakatMokUp.jpg)
 
 
 
